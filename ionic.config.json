@@ -1,0 +1,8 @@
+{
+  "name": "shoppingCart",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
